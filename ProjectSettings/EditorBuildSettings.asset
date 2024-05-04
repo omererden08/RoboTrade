@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Start.unity
+    guid: 28e99da171737994dae9127b3373957f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Controls.unity
+    guid: 3748af3a9a0503749b3290d3a39f1dac
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 1.unity
+    guid: 2d129008167977844b802fbd12507f0a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LastCutscenes/Cutscene 1.5.unity
+    guid: db912f340c684874fadc80d68af401ba
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 2.unity
+    guid: d853360f9cef28a4ea547c6501ae6092
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2.unity
+    guid: 99580d67dec74de448cfcfd0d69eb3af
+  - enabled: 1
+    path: Assets/Scenes/LastCutscenes/Cutscene 2.5.unity
+    guid: f4c7b642a62bbb647a992a41dd6bc8f6
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 3.unity
+    guid: 69d09b87c643c994d8a560d7274112c9
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3.unity
+    guid: 8d5a62a146647d945b8384d2d79fbbdc
+  - enabled: 1
+    path: Assets/Scenes/LastCutscenes/Cutscene 3.5.unity
+    guid: 956e33e5e64561048b466e1d70d22886
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 4.unity
+    guid: 85440430a1bfd1240b478236af774d22
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 4.unity
+    guid: 09ba9dc83787c9a4e8de98408272093d
+  - enabled: 1
+    path: Assets/Scenes/LastCutscenes/Cutscene 4.5.unity
+    guid: ade69719128f56c468af38c13e3c313a
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 5.unity
+    guid: 16aa09a7408f78142b17295b4a2ea3cd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 5.unity
+    guid: f96512c3bb056e849bdd326a13fe2c56
+  - enabled: 1
+    path: Assets/Scenes/LastCutscenes/Cutscene 5.5.unity
+    guid: 6d42e1aae29a68f4c8feaa3295bf42d8
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscenes/Cutscene 6.unity
+    guid: c0f0bf88143df564ba6014e819f4a3ff
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 6.unity
+    guid: ca56b7300b503904f8a84f1aa8084247
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Win Screen.unity
+    guid: d6a57b785e7b2e04fa1570ceffba48d9
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 1.unity
+    guid: 30072cae9f124404c9823cbb127d8248
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 2.unity
+    guid: eaa4b6ef09675894fa485cd56a8d6646
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 3.unity
+    guid: 5f5b48c2f3b231742b726ccaadc69fc8
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 4.unity
+    guid: 477a67a744722b74d9258af0fd11a85d
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 5.unity
+    guid: 63f57dbe2b8f46442b9fe9502fdefed1
+  - enabled: 1
+    path: Assets/Scenes/WinLose/Lose 6.unity
+    guid: c29cb0238a24d634188438bbf94b2163
+  m_configObjects: {}
